@@ -1,0 +1,2 @@
+# Sales_Analysis_PowerBI
+Cleaned and transformed data model in star schema using Power Query, added various synchronised slicers, advanced filters, calculated measures using DAX &amp; used interactive visualizations like “Q&amp;A”, Charts, Gauges with conditional formatting and page-level Tooltips explained by various dimensions with Drill-through option between pages navigated by buttons &amp; used Row-level security based on region. Finally, published on Power BI Service and pinned to Dashboard.

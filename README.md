@@ -3,7 +3,7 @@
 - Cleaned and transformed data using Power Query. Added various synchronised slicers and advanced filters. 
 - Created interactive visualizations like “Q&A”, Charts, and Gauges with conditional formatting and page-level Tooltips. 
 - Created drill-through option between pages that are navigated by buttons. Also, created calculated measures using DAX.
--	Implemented row-level security based on region and finally, published the visualizations on Power BI Service.
+-	Implemented row-level security based on region and finally, published the visualizations on Power BI Service. 
 
 ![image](https://user-images.githubusercontent.com/66935543/133964107-54c9ac80-80c8-49f6-8c5c-589821229dfd.png)
 
